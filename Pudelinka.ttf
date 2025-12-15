@@ -1,0 +1,2 @@
+mkdir -p ~/.local/share/fonts
+cp Pudelinka.ttf ~/.local/share/fonts/
