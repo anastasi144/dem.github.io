@@ -19,16 +19,4 @@ blockquote.q {
 }
 p.quote { font-family: “Pudelinka”, cursive;}
 /* Подключаем кастомный шрифт */
-@font-face {
-  font-family: 'Pudelinka';
-  src: url('fonts/pudelinka.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
 
-/* Стиль для текста шрифтом Пуделинка */
-.pudelinka {
-  font-family: 'Pudelinka', cursive;
-  font-size: 32px;
-  line-height: 1.4;
-}
